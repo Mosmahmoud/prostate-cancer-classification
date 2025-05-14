@@ -73,6 +73,8 @@ Feature types:
 ## Results
 To classify prostate cancer, I used a Support Vector Machine (SVM) classifier. After training the model on the dataset, I evaluated its performance using an accuracy score and a confusion matrix. The accuracy provides an overall measure of how well the model predicts the correct diagnosis, while the confusion matrix offers a deeper insight into the true positives, true negatives, false positives, and false negatives, helping to assess how well the model distinguishes between malignant and benign cases.
 
+![Image](https://github.com/user-attachments/assets/bc8b6f29-f462-4672-934d-2c6939a64281)
+![Image](https://github.com/user-attachments/assets/a7ce992c-36a9-4068-9799-e7f041205ba6)
 
 
 
